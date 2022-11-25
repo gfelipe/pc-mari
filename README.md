@@ -40,9 +40,12 @@
 - [AIGO DARKFLASH DLM 21](https://www.pichau.com.br/gabinete-gamer-aigo-darkflash-dlm-21-mesh-preto-lateral-vidro) - R$ 269,90 :white_check_mark:
 
 ### Acessórios
-
+#### Fan
 - [Deepcool XFan 120](https://www.kabum.com.br/produto/104382/cooler-fan-deepcool-xfan-120-120mm-preto-dp-fdc-xf120) - R$ 22,99 (x4 R$ 91,96) :white_check_mark:
-- [Pasta térmica Cooler Master MASTERGEL PRO](https://www.pichau.com.br/pasta-termica-cooler-master-mastergel-pro-mgy-zosg-n15m-r2) - R$ 45,90 :white_check_mark:
+#### Pasta térmica
+- [Cooler Master MASTERGEL REGULAR](https://www.pichau.com.br/pasta-termica-cooler-master-mastergel-regular-mgx-zosg-n15m-r2) - R$ 29,90
+- [Cooler Master MASTERGEL PRO](https://www.pichau.com.br/pasta-termica-cooler-master-mastergel-pro-mgy-zosg-n15m-r2) - R$ 45,90 :white_check_mark:
+- [Cooler Master MASTERGEL MAKER](https://www.pichau.com.br/pasta-termica-cooler-master-mastergel-maker-mgz-ndsg-n15m-r2) - R$ 64,90
 
 ## Fonte
 
