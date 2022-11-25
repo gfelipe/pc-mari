@@ -7,21 +7,21 @@
 
 # MoBo
 
-- [MSI A520M-A PRO](https://www.kabum.com.br/produto/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4?gclid=CjwKCAiAyfybBhBKEiwAgtB7fhPOdnqQGx04X2ErseIuJVW0_7th2rg9ErOkeXMRPAns18G4-Zr5EhoCwkkQAvD_BwE) - R$ 399,99
+- [MSI A520M-A PRO](https://www.kabum.com.br/produto/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4?gclid=CjwKCAiAyfybBhBKEiwAgtB7fhPOdnqQGx04X2ErseIuJVW0_7th2rg9ErOkeXMRPAns18G4-Zr5EhoCwkkQAvD_BwE) - R$ 399,99 :white_check_mark:
 - [MSI A520M-A PRO (Com atualização de BIOS)](https://www.kabum.com.br/produto/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4?gclid=CjwKCAiAyfybBhBKEiwAgtB7fhPOdnqQGx04X2ErseIuJVW0_7th2rg9ErOkeXMRPAns18G4-Zr5EhoCwkkQAvD_BwE) - R$ 466,00
 
 # Ram
 
-- [Corsair Vengeance 32GB (2x16GB) 2400Mhz](https://www.kabum.com.br/produto/110814/memoria-corsair-vengeance-lpx-32gb-2x16gb-2400mhz-ddr4-c16-black-cmk32gx4m2a2400c16?gclid=CjwKCAiAyfybBhBKEiwAgtB7fncY3cSc6EgbWYBmZC1hEISskwZaO5xxHS6D5jH12Otz2CjsDnZZhhoC8c8QAvD_BwE) - R$ 449,99
+- [Corsair Vengeance 32GB (2x16GB) 2400Mhz](https://www.kabum.com.br/produto/110814/memoria-corsair-vengeance-lpx-32gb-2x16gb-2400mhz-ddr4-c16-black-cmk32gx4m2a2400c16?gclid=CjwKCAiAyfybBhBKEiwAgtB7fncY3cSc6EgbWYBmZC1hEISskwZaO5xxHS6D5jH12Otz2CjsDnZZhhoC8c8QAvD_BwE) - R$ 449,99 :white_check_mark:
 
 # SSD
 
-- [Kingston NV2 M.2 NVMe - 500GB](https://www.terabyteshop.com.br/produto/23002/ssd-kingston-nv2-500gb-m2-nvme-2280-leitura-3500mbs-e-gravacao-2100mbs-snv2s500g) - R$ 248,99
+- [Kingston NV2 M.2 NVMe - 500GB](https://www.terabyteshop.com.br/produto/23002/ssd-kingston-nv2-500gb-m2-nvme-2280-leitura-3500mbs-e-gravacao-2100mbs-snv2s500g) - R$ 248,99 :white_check_mark:
 
 # GPU
 
 - [GTX 1660S](https://www.kabum.com.br/produto/110396/placa-de-video-gtx-1660-super-twin-fan-zotac-gaming-nvidia-geforce-6-gb-gddr6-zt-t16620f-10l?gclid=CjwKCAiAyfybBhBKEiwAgtB7fsBr1ZKsbDQEoW_P9i703NS3DWr90azvgwsha7bUR4HH8iEZeetkhhoC-7IQAvD_BwE) - R$ 1.299,99 
-- [RTX 2060](https://www.kabum.com.br/produto/357660/placa-de-video-rtx-2060-ventus-gp-oc-msi-nvidia-geforce-6gb-gddr6-ray-tracing-geforce-rtx-2060-ventus-gp-oc?gclid=CjwKCAiAyfybBhBKEiwAgtB7fvf0Jqn5F8Y7O_wRcdG1qahtPOw1NrJ63dYeSKnebEbcXDEi0rD_MBoCDVQQAvD_BwE) - R$ 1.499,99
+- [RTX 2060](https://www.kabum.com.br/produto/357660/placa-de-video-rtx-2060-ventus-gp-oc-msi-nvidia-geforce-6gb-gddr6-ray-tracing-geforce-rtx-2060-ventus-gp-oc?gclid=CjwKCAiAyfybBhBKEiwAgtB7fvf0Jqn5F8Y7O_wRcdG1qahtPOw1NrJ63dYeSKnebEbcXDEi0rD_MBoCDVQQAvD_BwE) - R$ 1.499,99 :white_check_mark:
 - [RTX 3060](https://www.kabum.com.br/produto/384627/placa-de-video-rtx-3060-ventus-2x-msi-nvidia-geforce-12gb-gddr6-dlss-ray-tracing?gclid=CjwKCAiAyfybBhBKEiwAgtB7fgqi9s0KB1bqz-hc-q9nf8kgLWnXkkyO7mCJYefzJ9XLH_YJ9ZqgVRoCsNMQAvD_BwE) - R$ 2.240,99
 
 # Monitor
@@ -37,15 +37,15 @@
 
 # Gabinete
 
-- [AIGO DARKFLASH DLM 21](https://www.pichau.com.br/gabinete-gamer-aigo-darkflash-dlm-21-mesh-preto-lateral-vidro) - R$ 269,90
+- [AIGO DARKFLASH DLM 21](https://www.pichau.com.br/gabinete-gamer-aigo-darkflash-dlm-21-mesh-preto-lateral-vidro) - R$ 269,90 :white_check_mark:
 
 # Fonte
 
-- [Corsair RM650x 80 Plus Gold](https://www.kabum.com.br/produto/371178/fonte-corsair-rmx-series-rm650x-650w-80-plus-gold-full-modular-cp-9020178-na?gclid=CjwKCAiAyfybBhBKEiwAgtB7fm7yuQ2AsZhPycMhrIzn5ZpGxN68LTPB-Crsyj23JbKcUAVgaM_y1xoCUbQQAvD_BwE) - R$ 519,99
+- [Corsair RM650x 80 Plus Gold](https://www.kabum.com.br/produto/371178/fonte-corsair-rmx-series-rm650x-650w-80-plus-gold-full-modular-cp-9020178-na?gclid=CjwKCAiAyfybBhBKEiwAgtB7fm7yuQ2AsZhPycMhrIzn5ZpGxN68LTPB-Crsyj23JbKcUAVgaM_y1xoCUbQQAvD_BwE) - R$ 519,99 :white_check_mark:
 
 # Teclado
 
-- [Logitech G213 Mecânico - Com fio](https://www.kabum.com.br/produto/107334/teclado-gamer-logitech-g213-rgb-lightsync-controles-de-midia-dedicados-design-duravel-resistente-a-respingos-abnt2-preto-920-009438?gclid=CjwKCAiAyfybBhBKEiwAgtB7fjohLOEluRoyiWQquZGZXoB9uzkCJ0GJgt1ZYTO29BypZcaYEW6khxoCIJsQAvD_BwE) - R$ 199,99
+- [Logitech G213 Mecânico - Com fio](https://www.kabum.com.br/produto/107334/teclado-gamer-logitech-g213-rgb-lightsync-controles-de-midia-dedicados-design-duravel-resistente-a-respingos-abnt2-preto-920-009438?gclid=CjwKCAiAyfybBhBKEiwAgtB7fjohLOEluRoyiWQquZGZXoB9uzkCJ0GJgt1ZYTO29BypZcaYEW6khxoCIJsQAvD_BwE) - R$ 199,99 :white_check_mark:
 - [Acer Sem Numpad - Com fio](https://br-store.acer.com/acer-nkw120-nitro-keyboard-tkl-usb-standard-black-retail-pack-for-brazil-portuguese-gp-kbd11-035/p?idsku=878&gclid=CjwKCAiAyfybBhBKEiwAgtB7fp9QCjk230n5EOwyfmjBc5Bj7hejSXb5JXffHIcj9u-bxe6wxgVAixoCrW8QAvD_BwE) - R$ 99,00
 
 # Mouse
