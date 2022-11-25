@@ -22,10 +22,15 @@
 
 - [AIGO DARKFLASH DLM 21](https://www.pichau.com.br/gabinete-gamer-aigo-darkflash-dlm-21-mesh-preto-lateral-vidro) - R$ 269,90
 
+# Fonte
+
+- [Corsair RM650x 80 Plus Gold](https://www.kabum.com.br/produto/371178/fonte-corsair-rmx-series-rm650x-650w-80-plus-gold-full-modular-cp-9020178-na?gclid=CjwKCAiAyfybBhBKEiwAgtB7fm7yuQ2AsZhPycMhrIzn5ZpGxN68LTPB-Crsyj23JbKcUAVgaM_y1xoCUbQQAvD_BwE) - R$ 519,99
+
 # Teclado
 
 - [Logitech G213 Mecânico - Com fio](https://www.kabum.com.br/produto/107334/teclado-gamer-logitech-g213-rgb-lightsync-controles-de-midia-dedicados-design-duravel-resistente-a-respingos-abnt2-preto-920-009438?gclid=CjwKCAiAyfybBhBKEiwAgtB7fjohLOEluRoyiWQquZGZXoB9uzkCJ0GJgt1ZYTO29BypZcaYEW6khxoCIJsQAvD_BwE) - R$ 199,99
 - [Acer Sem Numpad - Com fio](https://br-store.acer.com/acer-nkw120-nitro-keyboard-tkl-usb-standard-black-retail-pack-for-brazil-portuguese-gp-kbd11-035/p?idsku=878&gclid=CjwKCAiAyfybBhBKEiwAgtB7fp9QCjk230n5EOwyfmjBc5Bj7hejSXb5JXffHIcj9u-bxe6wxgVAixoCrW8QAvD_BwE) - R$ 99,00
+
 # Mouse
 
 - [Logitech G203 LIGHTSYNC - Com fio](https://www.kabum.com.br/produto/112948/mouse-gamer-logitech-g203-lightsync-rgb-efeito-de-ondas-de-cores-6-botoes-programaveis-e-ate-8-000-dpi-preto-910-005793?gclid=CjwKCAiAyfybBhBKEiwAgtB7fqi_KHg9ySXVX9DJwFET5lRgEJGpA0By9fxblPiCHXYt5kHCasRAIRoCIugQAvD_BwE) - R$ 79,99
