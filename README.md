@@ -24,11 +24,11 @@
 
 # Teclado
 
--[Logitech G213 Mecânico - Com fio](https://www.kabum.com.br/produto/107334/teclado-gamer-logitech-g213-rgb-lightsync-controles-de-midia-dedicados-design-duravel-resistente-a-respingos-abnt2-preto-920-009438?gclid=CjwKCAiAyfybBhBKEiwAgtB7fjohLOEluRoyiWQquZGZXoB9uzkCJ0GJgt1ZYTO29BypZcaYEW6khxoCIJsQAvD_BwE) - R$ 199,99
--[Acer Sem Numpad - Com fio](https://br-store.acer.com/acer-nkw120-nitro-keyboard-tkl-usb-standard-black-retail-pack-for-brazil-portuguese-gp-kbd11-035/p?idsku=878&gclid=CjwKCAiAyfybBhBKEiwAgtB7fp9QCjk230n5EOwyfmjBc5Bj7hejSXb5JXffHIcj9u-bxe6wxgVAixoCrW8QAvD_BwE) - R$ 99,00
+- [Logitech G213 Mecânico - Com fio](https://www.kabum.com.br/produto/107334/teclado-gamer-logitech-g213-rgb-lightsync-controles-de-midia-dedicados-design-duravel-resistente-a-respingos-abnt2-preto-920-009438?gclid=CjwKCAiAyfybBhBKEiwAgtB7fjohLOEluRoyiWQquZGZXoB9uzkCJ0GJgt1ZYTO29BypZcaYEW6khxoCIJsQAvD_BwE) - R$ 199,99
+- [Acer Sem Numpad - Com fio](https://br-store.acer.com/acer-nkw120-nitro-keyboard-tkl-usb-standard-black-retail-pack-for-brazil-portuguese-gp-kbd11-035/p?idsku=878&gclid=CjwKCAiAyfybBhBKEiwAgtB7fp9QCjk230n5EOwyfmjBc5Bj7hejSXb5JXffHIcj9u-bxe6wxgVAixoCrW8QAvD_BwE) - R$ 99,00
 # Mouse
 
 - [Logitech G203 LIGHTSYNC - Com fio](https://www.kabum.com.br/produto/112948/mouse-gamer-logitech-g203-lightsync-rgb-efeito-de-ondas-de-cores-6-botoes-programaveis-e-ate-8-000-dpi-preto-910-005793?gclid=CjwKCAiAyfybBhBKEiwAgtB7fqi_KHg9ySXVX9DJwFET5lRgEJGpA0By9fxblPiCHXYt5kHCasRAIRoCIugQAvD_BwE) - R$ 79,99
 - [Logitech G403 HERO - Com fio](https://www.kabum.com.br/produto/102649/mouse-gamer-logitech-g403-hero-com-rgb-lightsync-6-botoes-programaveis-ajuste-de-peso-e-sensor-hero-25k-910-005631?awc=17729_1669355652_7d1073e62356b84472c7967ee252ca98&utm_source=AWIN&utm_medium=AFILIADOS&utm_campaign=PS5FIFA_out22&utm_content=&utm_term=667929) - R$ 149,99
--[Logitech G305 LIGHTSPEED - Sem fio](https://www.amazon.com.br/Logitech-LIGHTSPEED-Bot%C3%B5es-Program%C3%A1veis-12-000/dp/B07GPRWFC5/ref=asc_df_B07GPRWFC5/?tag=googleshopp00-20&linkCode=df0&hvadid=379713309507&hvpos=&hvnetw=g&hvrand=6282548365234245051&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001655&hvtargid=pla-782622594439&psc=1) - R$ 199,99
+- [Logitech G305 LIGHTSPEED - Sem fio](https://www.amazon.com.br/Logitech-LIGHTSPEED-Bot%C3%B5es-Program%C3%A1veis-12-000/dp/B07GPRWFC5/ref=asc_df_B07GPRWFC5/?tag=googleshopp00-20&linkCode=df0&hvadid=379713309507&hvpos=&hvnetw=g&hvrand=6282548365234245051&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001655&hvtargid=pla-782622594439&psc=1) - R$ 199,99
  
