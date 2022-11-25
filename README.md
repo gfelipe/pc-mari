@@ -1,5 +1,22 @@
 # PC Mari - By Gomes Solutions
 
+# CPU 
+- [Ryzen 5 5600G](https://www.kabum.com.br/produto/181088/processador-amd-ryzen-5-5600g-3-9ghz-4-4ghz-max-turbo-cache-19mb-6-nucleos-12-threads-video-integrado-am4-100-100000252box?gclid=CjwKCAiAyfybBhBKEiwAgtB7fsFDCTAnouWIKCogP1dQ2TUyraKD_aVueiRdfUtsZ3oNrxbA1AnkgBoC2CUQAvD_BwE) - R$ 899,99 :white_check_mark:
+- [Ryzen 5 5600](https://www.kabum.com.br/produto/320798/processador-amd-ryzen-5-5600-3-5ghz-4-4ghz-max-turbo-cache-35mb-am4-sem-video-100-100000927box?gclid=CjwKCAiAyfybBhBKEiwAgtB7fge17Oq2aESNWSzTxQGnzaLd9rWDn7tHfL92-19Q6tX8bMHEz4VRMxoC2_gQAvD_BwE) - R$ 899,99
+- [Ryzen 5 5600X](https://www.kabum.com.br/produto/129451/processador-amd-ryzen-5-5600x-3-7ghz-4-6ghz-max-turbo-cache-35mb-6-nucleos-12-threads-am4-100-100000065box?gclid=CjwKCAiAyfybBhBKEiwAgtB7fk3H6040JjXzfgarrcD_xRiGT2-NyrYRFgi91lryswBLKjIzRqAumRoCTX0QAvD_BwE) - R$ 1.119,99
+
+# MoBo
+
+- [MSI A520M-A PRO](https://www.kabum.com.br/produto/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4?gclid=CjwKCAiAyfybBhBKEiwAgtB7fhPOdnqQGx04X2ErseIuJVW0_7th2rg9ErOkeXMRPAns18G4-Zr5EhoCwkkQAvD_BwE) - R$ 399,99
+- [MSI A520M-A PRO (Com atualização de BIOS)](https://www.kabum.com.br/produto/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4?gclid=CjwKCAiAyfybBhBKEiwAgtB7fhPOdnqQGx04X2ErseIuJVW0_7th2rg9ErOkeXMRPAns18G4-Zr5EhoCwkkQAvD_BwE) - R$ 466,00
+
+# Ram
+
+- [Corsair Vengeance 32GB (2x16GB) 2400Mhz](https://www.kabum.com.br/produto/110814/memoria-corsair-vengeance-lpx-32gb-2x16gb-2400mhz-ddr4-c16-black-cmk32gx4m2a2400c16?gclid=CjwKCAiAyfybBhBKEiwAgtB7fncY3cSc6EgbWYBmZC1hEISskwZaO5xxHS6D5jH12Otz2CjsDnZZhhoC8c8QAvD_BwE) - R$ 449,99
+
+# SSD
+
+- [Kingston NV2 M.2 NVMe - 500GB](https://www.terabyteshop.com.br/produto/23002/ssd-kingston-nv2-500gb-m2-nvme-2280-leitura-3500mbs-e-gravacao-2100mbs-snv2s500g) - R$ 248,99
 
 # GPU
 
